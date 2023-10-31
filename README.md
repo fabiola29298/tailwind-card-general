@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://fabiola29298.github.io/tailwind-card-general/">
+    <a href="https://github.com/fabiola29298/tailwind-card-general/blob/main/src/assets/overview.png">
       Demo 📱
     </a>
     <span> | </span>
-    <a href="https://github.com/fabiola29298/tailwind-card-general">
+    <a href="https://github.com/fabiola29298/tailwind-card-general/blob/main/src/assets/overview2.png">
       Solution
     </a>
   </h3>
